@@ -1,5 +1,5 @@
 <section
-	class="bg-gray-300 text-gray-900 dark:bg-black dark:text-gray-100 h-screen flex justify-center items-center flex-col"
+	class="bg-gray-300 text-gray-900 dark:bg-black dark:text-gray-100 h-screen flex justify-center items-center flex-col text-center p-6"
 >
 	<q class="text-3xl italic">
 		To know, is to know that you know nothing. That is the meaning of true knowledge.
